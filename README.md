@@ -1,1 +1,1 @@
-# fanatasy-verse
+# fantasy-verse
